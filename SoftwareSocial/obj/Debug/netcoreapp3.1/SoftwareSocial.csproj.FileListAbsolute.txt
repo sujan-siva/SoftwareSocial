@@ -1,0 +1,13 @@
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\bin\Debug\netcoreapp3.1\SoftwareSocial.exe
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\bin\Debug\netcoreapp3.1\SoftwareSocial.deps.json
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\bin\Debug\netcoreapp3.1\SoftwareSocial.runtimeconfig.json
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\bin\Debug\netcoreapp3.1\SoftwareSocial.runtimeconfig.dev.json
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\bin\Debug\netcoreapp3.1\SoftwareSocial.dll
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\bin\Debug\netcoreapp3.1\SoftwareSocial.pdb
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\obj\Debug\netcoreapp3.1\SoftwareSocial.csprojAssemblyReference.cache
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\obj\Debug\netcoreapp3.1\SoftwareSocial.AssemblyInfoInputs.cache
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\obj\Debug\netcoreapp3.1\SoftwareSocial.AssemblyInfo.cs
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\obj\Debug\netcoreapp3.1\SoftwareSocial.csproj.CoreCompileInputs.cache
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\obj\Debug\netcoreapp3.1\SoftwareSocial.dll
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\obj\Debug\netcoreapp3.1\SoftwareSocial.pdb
+C:\Users\srisivapalan\Documents\Software Social\Grouping\SoftwareSocial\SoftwareSocial\obj\Debug\netcoreapp3.1\SoftwareSocial.genruntimeconfig.cache
