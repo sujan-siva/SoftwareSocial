@@ -186,13 +186,14 @@ namespace SoftwareSocial
             Group3.AddRange(shuffled.Skip(quarter * 2).Take(quarter));
             Group4.AddRange(shuffled.Skip(quarter * 3).Take(quarter));
 
-            Group1.ForEach(person => Console.WriteLine($"Group 1: {person}"));
-            Console.WriteLine("");
-            Group2.ForEach(person => Console.WriteLine($"Group 2: {person}"));
-            Console.WriteLine("");
-            Group3.ForEach(person => Console.WriteLine($"Group 3: {person}"));
-            Console.WriteLine("");
-            Group4.ForEach(person => Console.WriteLine($"Group 4: {person}"));
+            Console.WriteLine("Group 1:");
+            Group1.ForEach(person => Console.WriteLine($"{person}"));
+            Console.WriteLine("\nGroup 2:");
+            Group2.ForEach(person => Console.WriteLine($"{person}"));
+            Console.WriteLine("\nGroup 3:");
+            Group3.ForEach(person => Console.WriteLine($"{person}"));
+            Console.WriteLine("\nGroup 4:");
+            Group4.ForEach(person => Console.WriteLine($"{person}"));
 
         }
 
