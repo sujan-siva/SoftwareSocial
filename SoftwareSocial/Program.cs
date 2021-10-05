@@ -174,11 +174,6 @@ namespace SoftwareSocial
             }
 
             Console.Clear();
-            Console.WriteLine($"Here are the Hosts for this weeks Social Games: ");
-            Console.WriteLine($"Host 1: {Host1}");
-            Console.WriteLine($"Host 2: {Host2}");
-            Console.WriteLine($"Host 3: {Host3}");
-            Console.WriteLine($"Host 4: {Host4}");
 
             #endregion SelectHosts
 
@@ -192,8 +187,11 @@ namespace SoftwareSocial
             Group4.AddRange(shuffled.Skip(quarter * 3).Take(quarter));
 
             Group1.ForEach(person => Console.WriteLine($"Group 1: {person}"));
+            Console.WriteLine("");
             Group2.ForEach(person => Console.WriteLine($"Group 2: {person}"));
+            Console.WriteLine("");
             Group3.ForEach(person => Console.WriteLine($"Group 3: {person}"));
+            Console.WriteLine("");
             Group4.ForEach(person => Console.WriteLine($"Group 4: {person}"));
 
         }
