@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jVpJTiiRcmLyYdRd+VDVbDHAt9yfB1htCxq0SPVKdI/L+z0u4+VFwoYsSekNs1TLuH1Wq8m6NifD0ozRg0LvaQ==",
+  "dgSpecHash": "IIbiEuGpGoqmImQIdK4xxk8wxtrsAZgFAnfxIFsgklCchems8H3yqrsDieo2khHB9tiG0W6WakElZLt+0i+nag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\srisivapalan\\Documents\\Software Social\\Grouping\\SoftwareSocial\\SoftwareSocial\\SoftwareSocial.csproj",
+  "projectFilePath": "C:\\Users\\srisivapalan\\Documents\\SideProjects\\SocialGroups\\SoftwareSocial\\SoftwareSocial.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srisivapalan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],

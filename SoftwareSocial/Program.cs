@@ -98,6 +98,8 @@ namespace SoftwareSocial
 
             #region SelectHosts
 
+            // The following code can be stored in one method
+
             //PICK HOST 1
             Console.WriteLine($"Select Host 1: ");
             string Host1;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\srisivapalan\\Documents\\Software Social\\Grouping\\SoftwareSocial\\SoftwareSocial\\SoftwareSocial.csproj": {}
+    "C:\\Users\\srisivapalan\\Documents\\SideProjects\\SocialGroups\\SoftwareSocial\\SoftwareSocial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\srisivapalan\\Documents\\Software Social\\Grouping\\SoftwareSocial\\SoftwareSocial\\SoftwareSocial.csproj": {
+    "C:\\Users\\srisivapalan\\Documents\\SideProjects\\SocialGroups\\SoftwareSocial\\SoftwareSocial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\srisivapalan\\Documents\\Software Social\\Grouping\\SoftwareSocial\\SoftwareSocial\\SoftwareSocial.csproj",
+        "projectUniqueName": "C:\\Users\\srisivapalan\\Documents\\SideProjects\\SocialGroups\\SoftwareSocial\\SoftwareSocial.csproj",
         "projectName": "SoftwareSocial",
-        "projectPath": "C:\\Users\\srisivapalan\\Documents\\Software Social\\Grouping\\SoftwareSocial\\SoftwareSocial\\SoftwareSocial.csproj",
+        "projectPath": "C:\\Users\\srisivapalan\\Documents\\SideProjects\\SocialGroups\\SoftwareSocial\\SoftwareSocial.csproj",
         "packagesPath": "C:\\Users\\srisivapalan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\srisivapalan\\Documents\\Software Social\\Grouping\\SoftwareSocial\\SoftwareSocial\\obj\\",
+        "outputPath": "C:\\Users\\srisivapalan\\Documents\\SideProjects\\SocialGroups\\SoftwareSocial\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
